@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Sahil👋
 
 I'm an Electronics & Computer Science undergrad and an aspiring **FPGA & Digital Hardware Engineer**.
 
